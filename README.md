@@ -1,1 +1,8 @@
-![ef](https://github.com/user-attachments/assets/e2d9f32e-bb36-4c65-964b-2d4d70807fdb)
+<h1>Murat Yücedağ C# Eğitim Kampı Projesi</h1>
+
+Bu proje, Murat Yücedağ'ın C# Eğitim Kampı kapsamında geliştirdiğim bir Windows Forms uygulamasıdır. Çalışmada:
+Entity Framework kullanarak veritabanı işlemleri gerçekleştirdim.
+LINQ sorguları ile veri manipülasyonu ve sorgulama işlemleri yaptım.
+Windows Forms'un sade ve kullanıcı dostu arayüzünü kullandım. 
+
+![frmm](https://github.com/user-attachments/assets/29bf4a95-68e2-4cdc-abc4-062d066dcd5b)
