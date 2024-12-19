@@ -364,7 +364,7 @@
 			// 
 			this.lblMaxPriceLocation.AutoSize = true;
 			this.lblMaxPriceLocation.Font = new System.Drawing.Font("Calibri", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-			this.lblMaxPriceLocation.Location = new System.Drawing.Point(19, 83);
+			this.lblMaxPriceLocation.Location = new System.Drawing.Point(105, 83);
 			this.lblMaxPriceLocation.Name = "lblMaxPriceLocation";
 			this.lblMaxPriceLocation.Size = new System.Drawing.Size(47, 37);
 			this.lblMaxPriceLocation.TabIndex = 2;
